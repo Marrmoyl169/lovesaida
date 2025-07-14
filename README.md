@@ -24,9 +24,10 @@
   </style>
 </head>
 <body>
-  <video autoplay muted loop playsinline>
-    <source src="hh.mp4" type="video/mp4">
-    Ваш браузер не поддерживает видео.
-  </video>
+  <body>
+ <video controls playsinline loop>
+  <source src="hh.mp4" type="video/mp4">
+  Ваш браузер не поддерживает видео.
+</video>
 </body>
 </html>
